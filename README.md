@@ -13,3 +13,9 @@ The default batch size is 32, but this can be changed by supplying a batch_size 
 The fit_onecycle method increases the learning rate from a base rate to a maximum rate for the first half of training and decays the learning rate to a near-zero value for the second half of training. 
 We run 4 epochs and we can see that the accuracy for the model improves with almost 30%  per epoch. It goes from 44% to 72% and then to a staggering 92% in the 3rd epoch itself. The 4th epoch however gives us an amazing accuracy of 98% !
 Thus BERT's claim at being the best NLP algorithm holds true!
+
+**Naveen's Code**
+Text clsssification and anlysis using TF-IDF measurement and Prediction through NB,SVM,Logistic Regression Models
+Code contains:
+
+
