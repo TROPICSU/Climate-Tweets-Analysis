@@ -14,8 +14,10 @@ The fit_onecycle method increases the learning rate from a base rate to a maximu
 We run 4 epochs and we can see that the accuracy for the model improves with almost 30%  per epoch. It goes from 44% to 72% and then to a staggering 92% in the 3rd epoch itself. The 4th epoch however gives us an amazing accuracy of 98% !
 Thus BERT's claim at being the best NLP algorithm holds true!
 
-**Naveen's Code**
+**Naveen's Code** :
+
 Text clsssification and anlysis using TF-IDF measurement and Prediction through NB,SVM,Logistic Regression Models
+
 Code contains:
 
 
