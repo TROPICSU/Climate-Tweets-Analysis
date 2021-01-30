@@ -24,11 +24,11 @@ Code contains:
 
 2.Visualizing the data categorically using a pie chart
 
-3. Data preprocessing : removing URL'S,remove HTML tags,removing Punctuations,Tokenizing the words,removing stopwords,lemmatizing,stemming.
+3.Data preprocessing : removing URL'S,remove HTML tags,removing Punctuations,Tokenizing the words,removing stopwords,lemmatizing,stemming.
 
-4. Analysis after Text preprocessing : Visualization of most used words in Positive and Negative tweets through wordcoud and   Bargraph
+4.Analysis after Text preprocessing : Visualization of most used words in Positive and Negative tweets through wordcoud and   Bargraph
 
-5. Using TF-IDF measurement for vectorizing the every words and for getting frequency scores for words
+5.Using TF-IDF measurement for vectorizing the every words and for getting frequency scores for words
 
 6.Prediction using Classification methods :NaiveBayes, SVM and Logistic Regression.
 
