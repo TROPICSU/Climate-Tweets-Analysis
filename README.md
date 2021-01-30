@@ -22,7 +22,7 @@ Code contains:
 
 1.Making changes in the 'existence' column of data converting similar meaning words to a single word(Ex: Yes,Y,YES to yes)
 
-2.Visualizing the data categorically using a pie chart
+2.Visualizing the data  using a pie chart
 
 3.Data preprocessing : removing URL'S,remove HTML tags,removing Punctuations,Tokenizing the words,removing stopwords,lemmatizing,stemming.
 
